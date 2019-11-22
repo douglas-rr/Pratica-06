@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(89, 236, 255);
+    color: rgb(255, 255, 255);
+    padding: .1rem;
+    font-size: 4rem;
+}
+
+button {
+    font-size: .7rem;
+    padding: .8rem;
+    text-align: center;
+}
